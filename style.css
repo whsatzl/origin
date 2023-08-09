@@ -1,0 +1,43 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.trivia-box {
+    border: 2px solid #000;
+    border-radius: 2%;
+    padding: 10px;
+    padding-left: 50px;
+    font-weight: bold;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: #00ffcc;
+}
+
+h1 {
+    text-align: center;
+}
+
+.california {
+    display: none;
+}
+
+.illinois {
+    display: none;
+}
+
+.newyork {
+    display: none;
+}
+
+.other {
+    display: none;
+}
